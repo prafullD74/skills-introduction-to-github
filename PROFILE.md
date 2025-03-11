@@ -11,3 +11,7 @@ What is a profile README?: A profile README is essentially an "About me" section
 What is a commit?: A commit is a set of changes to the files and folders in your project. A commit exists in a branch.
 
 md is a file extension that creates a Markdown file. You can learn more about Markdown by visiting ["Basic writing and formatting syntax"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) in our docs
+
+What is a pull request?: Collaboration happens on a [pull request](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request). The pull request shows the changes in your branch to other people and allows people to accept, reject, or suggest additional changes to your branch. In a side by side comparison, this pull request is going to keep the changes you just made on your branch and propose applying them to the main project branch.
+
+What is a merge?: A [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) adds the changes in your pull request and branch into the main branch
